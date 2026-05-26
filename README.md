@@ -3,16 +3,16 @@
 📍 India 📧 Email: anamkoya1234@gmail.com 🔗 LinkedIn: /anam-koya/
 ---
 
-# 🌐 About Me
+**🌐 About Me**
 
 I'm passionate about Data Analytics, Visualisation and AI.
 I enjoy building interactive dashboards and analysing datasets.
 
-# 🌱 Currently learning
+**🌱 Currently learning**
 - Generative AI
 - SQL Optimization
 
-# 🛠️ Tech Stack
+**🛠️ Tech Stack**
 - Python
 - MySQL
 - PowerBI
@@ -20,7 +20,7 @@ I enjoy building interactive dashboards and analysing datasets.
 - Excel
 
 
-# 🎓 Education 
+**🎓 Education**
 - Masters in Data Science, Chandigarh University
 - Bachelors in Computer Science, Mumbai University
 
