@@ -1,16 +1,28 @@
-## Hi there 👋
+##👋 Hi there, I'm Anam!
+---
+📍 India 📧 Email: anamkoya1234@gmail.com 🔗 LinkedIn: /anam-koya/
+---
 
-<!--
-**Anam-koya/Anam-koya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 About me 
+I'm passionate about Data Analytics, Visualisation and AI.
+I enjoy building interactive dashboards and analysing datasets.
 
-Here are some ideas to get you started:
+🌱 Currently learning
+-Generative AI
+-SQL Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+-Python
+-MySQL
+-PowerBI
+-Tableau
+-Excel
+
+🎓Education 
+-Masters in Data Science, Chandigarh University
+-Bachelors in Computer Science, Mumbai University
+
+---
+
+
+
