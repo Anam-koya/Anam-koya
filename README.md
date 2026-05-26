@@ -8,19 +8,20 @@ I'm passionate about Data Analytics, Visualisation and AI.
 I enjoy building interactive dashboards and analysing datasets.
 
 🌱 Currently learning
--Generative AI
--SQL Optimization
+- Generative AI
+- SQL Optimization
 
 🛠️ Tech Stack
--Python
--MySQL
--PowerBI
--Tableau
--Excel
+- Python
+- MySQL
+- PowerBI
+- Tableau
+- Excel
+
 
 🎓Education 
--Masters in Data Science, Chandigarh University
--Bachelors in Computer Science, Mumbai University
+- Masters in Data Science, Chandigarh University
+- Bachelors in Computer Science, Mumbai University
 
 ---
 
