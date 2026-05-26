@@ -4,6 +4,7 @@
 ---
 
 🌐 About me 
+
 I'm passionate about Data Analytics, Visualisation and AI.
 I enjoy building interactive dashboards and analysing datasets.
 
