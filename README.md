@@ -3,7 +3,7 @@
 📍 India 📧 Email: anamkoya1234@gmail.com 🔗 LinkedIn: /anam-koya/
 ---
 
-🌐 About me 
+🌐 About Me
 
 I'm passionate about Data Analytics, Visualisation and AI.
 I enjoy building interactive dashboards and analysing datasets.
