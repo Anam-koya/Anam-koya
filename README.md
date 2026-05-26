@@ -1,4 +1,4 @@
-##👋 Hi there, I'm Anam!
+👋 Hi there, I'm Anam!
 ---
 📍 India 📧 Email: anamkoya1234@gmail.com 🔗 LinkedIn: /anam-koya/
 ---
